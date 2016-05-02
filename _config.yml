@@ -1,7 +1,7 @@
 name: Paradigm Shift Apparel
 favicon: null
-layout_spectrum: 0.15822695149108768
-typography_spectrum: 0.8306897336151451
+layout_spectrum: 1
+typography_spectrum: 0.09696
 cta:
   domain: null
   bucket: null
