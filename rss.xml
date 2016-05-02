@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Paradigm Shift Apparel]]></title>
+        <description><![CDATA[Paradigm Shift Apparel]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 02 May 2016 22:17:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>PSA Logo T </p>]]></description>
+            <link>undefinedpsa-logo-t/index.html</link>
+            <guid isPermaLink="false">06e7e3f1-b1a7-40a1-a593-4e6be63d3a59</guid>
+            <pubDate>Mon, 02 May 2016 22:17:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
